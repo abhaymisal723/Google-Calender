@@ -1,10 +1,13 @@
-## To start the application
-npm install
-npm run dev
-
 # Calendar Application
 
 A comprehensive calendar application built with React, TypeScript, and Vite that provides full event management capabilities with a modern, responsive UI.
+
+## Quick Start
+
+```bash
+npm install
+npm run dev
+```
 
 ## Features
 
